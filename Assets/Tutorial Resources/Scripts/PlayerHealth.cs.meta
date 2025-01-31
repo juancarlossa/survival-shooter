@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c135cf06b1b071c4fb67c4969d3c1b0b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - healthSlider: {instanceID: 0}
+  - damageImage: {instanceID: 0}
+  - deathClip: {fileID: 8300000, guid: d36a393bca4582043982db9089e1694f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
